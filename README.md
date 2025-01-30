@@ -3,6 +3,12 @@
 🎙 Formato: Podcast
 ⏳ Duração: Máximo 10 minutos
 
+# Ferramentas utilizadas
+ChatGPT
+Clipchamp
+Capcut
+Leonardo.Ai
+
 🔹 1. Introdução (2 min)
 
 Apresentação do podcast e do tema.
